@@ -1,0 +1,84 @@
+Create a Feature: Search Analytics MVP
+    Making use of the search data
+    To identify how users are interacting with particular search engines
+MVP by Eric Ries
+    Minimum viable product
+    A product with enough features to attract early-adopter customers.
+    Validate a product idea early in the product development cycle
+    The product team receive user feedback as quickly as possible to iterate and improve the product
+    Maximum amount of validated learning about customers with the least amount of effort.
+
+Discovery
+Explain in own words which problem ‘Search Analytics’ would solve?
+    Low quality results
+    Helps in giving exact results what customer needs.
+    Based upon customer location,the results can be improved
+    Helps in marketing campaign , sets goal for the particular category of people thereby increasing the monetization
+
+Who the target persons of this feature would be?
+    Target would be Customers who use that particular product.
+    Individual/organisation -> different department ecommerce,health,pharmecutical,Transportation
+
+    Categorisation can be based on  Demography/Age:/Gender:/Household income:/Parental status:
+
+ Conduct a brief competitive analysis of the intranet market to find out if our main competitors already offer such a feature.
+ 
+ Competitors
+    Google Analytics
+        Improve the Bounce Rate of Your Website
+        real-time visitor count
+        Price - Free
+        74% of the 2000+ analytics professionals we surveyed use
+    Adobe Analytics
+        Price on request
+        4% of experts surveyed use Adobe Analytics
+        The focus is on machine learning and predictive algorithms for advanced insights.
+        Another 4% of the analytics experts we surveyed use Mixpanel.
+    Mixpanel
+        tracking customer behavior and KPIs across websites and mobile apps
+    Baidu Analytics
+        Free service
+    So we should provide a tool which is easy,accurate and reliable product
+
+Draft an MVP version of ‘Search Analytics’
+  What requirements should an MVP version be able to solve?
+   
+   Focus on Building the Core features SEarch analytics 
+   volume or no.of users on our page
+   Keyword monitoring
+   Landing page
+   conversion of a visitor to a customer
+   Session duration
+   Bounce Rate
+
+  Explain the scope you chose for your MVP
+   maximum Accuracy
+   bounce rate shd be reduced
+   minimal Missing information/under reporting
+    Many people will opt out of Google Analytics;
+    they may also block cookies and/or switch off JavaScript which is how Google tracks the behaviour of visitors. 
+    Their activity is not tracked leading to under-reporting.
+   Provide simple search alanalystics tool for extensive users.
+     so that they need not spend so much time on to find out how to use the tool.
+Feature Release
+   Which metrics would you use to help you measure the success of this feature?
+    User Satisfaction
+    by tracking no.of users
+    tracking repeated customer usage
+    Finding out the msot used feature of our tool
+    No.of users which used our product ->Size
+    Based on customer feedback
+    Peformace the toolwhen high no.of users are acessing it
+    How often they use our product
+
+How would you monetize this feature?
+    What further iterations would you plan for this feature?
+    Advanced features can be monetized
+    Basic feature can be accessed freely such as no.of users visited ,top searched product,time they spent
+    Also advanced version can be giver for trial period and later chargable data based on lcality,gender ,profession,time they acess
+    
+What further iterations would you plan for this feature?
+     Incorporating more data algorithms or finding how 
+     fast result
+     improved predictablity [even with a slightly wrong informstion] of user search and giving suggestions while searching misssing information./misspelled 
+     Continuous zero-result	-> adding it and providing special reports on zero search results
